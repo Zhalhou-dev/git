@@ -1,0 +1,26 @@
+.links:hover {
+    text-decoration: underline;
+    color: white;
+    font-size: 35;
+}
+
+.links {
+    display: inline;
+    color: cyan;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+    width: 100;
+}
+body{
+  background-color:blue;
+}
+#img{
+  width:700px;
+}
+#web{
+  width:700px;
+}
